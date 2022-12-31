@@ -1,7 +1,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fadtitas%2Fngrok-rdp%2F&labelColor=%2314213d&countColor=%23e5e5e5&style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/adtitas/ngrok-rdp-backup?style=social)
 
-<h1 align="center">⚠ Education Purposes Only ⚠</h1>
-<p align="center"><b>it is a backup repo of adtitas/ngrok-rdp</b></p>
+<h1 align="center">⚠ Educational Purposes Only ⚠</h1>
+<p align="center"><b>It is a backup repo of adtitas/ngrok-rdp</b><br>``fork 3k+ & star 100+. disabled by github``</p>
+<hr>
 
 ## 📮 Description
 
