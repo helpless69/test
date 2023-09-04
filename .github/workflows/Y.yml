@@ -22,6 +22,7 @@ jobs:
       run: Start-Process Powershell -ArgumentList '-Noexit -Command ".\ngrok\ngrok.exe tcp 3389"'
     - name: Connect to RDP [Copy ip, username, password from here]
       run: cmd /c start.bat
-    - name: TimeCount
-      run: Invoke-WebRequest https://raw.githubusercontent.com/Helpless69/test/main/resources/loop.ps1 -OutFile loop.ps1
-    - run: ./loop.ps1
+    - name: Keep Workflow Active
+      run: |
+        echo "This step will keep the workflow active for 6 hours."
+        sleep 21600 # Sleep for 1 hour, you can repeat this line to sleep for the desired duration.
